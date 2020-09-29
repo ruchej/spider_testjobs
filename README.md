@@ -31,7 +31,7 @@
 
 Структура БД:
 
-![alt_text](image1.png "image_tooltip")
+![alt_text](СхемаБД.png "image_tooltip")
 
 
 Требуются следующие ресурсы API:
